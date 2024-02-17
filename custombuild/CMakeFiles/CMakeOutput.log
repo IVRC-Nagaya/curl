@@ -1,0 +1,228 @@
+Performing Test HAVE_WIN32_WINNT passed with the following output:
+Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_61e30.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+2024/02/17 8:42:10 にビルドを開始しました。
+
+ノード 1 上のプロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_61e30.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_61e30.dir\Debug\" を作成しています。
+  構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+  ディレクトリ "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_61e30.dir\Debug\cmTC_61e30.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_61e30.dir\Debug\cmTC_61e30.tlog\unsuccessfulbuild" を作成しています。
+  "cmTC_61e30.dir\Debug\cmTC_61e30.tlog\unsuccessfulbuild" のタッチ タスクを実行しています。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_61e30.dir\Debug\\" /Fd"cmTC_61e30.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_61e30.dir\Debug\\" /Fd"cmTC_61e30.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  CurlTests.c
+  _WIN32_WINNT=0x0A00
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_61e30.exe" /INCREMENTAL /ILK:"cmTC_61e30.dir\Debug\cmTC_61e30.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_61e30.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_61e30.lib" /MACHINE:X64  /machine:x64 cmTC_61e30.dir\Debug\CurlTests.obj
+  cmTC_61e30.vcxproj -> C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_61e30.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_61e30.dir\Debug\cmTC_61e30.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_61e30.dir\Debug\cmTC_61e30.tlog\cmTC_61e30.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_61e30.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.36
+
+
+Performing Test HAVE_WIN32_WINNT passed with the following output:
+Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_fd377.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+2024/02/17 8:42:20 にビルドを開始しました。
+
+ノード 1 上のプロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_fd377.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_fd377.dir\Debug\" を作成しています。
+  構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+  ディレクトリ "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_fd377.dir\Debug\cmTC_fd377.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_fd377.dir\Debug\cmTC_fd377.tlog\unsuccessfulbuild" を作成しています。
+  "cmTC_fd377.dir\Debug\cmTC_fd377.tlog\unsuccessfulbuild" のタッチ タスクを実行しています。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fd377.dir\Debug\\" /Fd"cmTC_fd377.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fd377.dir\Debug\\" /Fd"cmTC_fd377.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  CurlTests.c
+  _WIN32_WINNT=0x0A00
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_fd377.exe" /INCREMENTAL /ILK:"cmTC_fd377.dir\Debug\cmTC_fd377.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_fd377.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_fd377.lib" /MACHINE:X64  /machine:x64 cmTC_fd377.dir\Debug\CurlTests.obj
+  cmTC_fd377.vcxproj -> C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_fd377.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_fd377.dir\Debug\cmTC_fd377.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_fd377.dir\Debug\cmTC_fd377.tlog\cmTC_fd377.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_fd377.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.36
+
+
+Performing Test HAVE_WIN32_WINNT passed with the following output:
+Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c5de2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+2024/02/17 8:44:38 にビルドを開始しました。
+
+ノード 1 上のプロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_c5de2.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_c5de2.dir\Debug\" を作成しています。
+  構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+  ディレクトリ "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_c5de2.dir\Debug\cmTC_c5de2.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_c5de2.dir\Debug\cmTC_c5de2.tlog\unsuccessfulbuild" を作成しています。
+  "cmTC_c5de2.dir\Debug\cmTC_c5de2.tlog\unsuccessfulbuild" のタッチ タスクを実行しています。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c5de2.dir\Debug\\" /Fd"cmTC_c5de2.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c5de2.dir\Debug\\" /Fd"cmTC_c5de2.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  CurlTests.c
+  _WIN32_WINNT=0x0A00
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_c5de2.exe" /INCREMENTAL /ILK:"cmTC_c5de2.dir\Debug\cmTC_c5de2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_c5de2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_c5de2.lib" /MACHINE:X64  /machine:x64 cmTC_c5de2.dir\Debug\CurlTests.obj
+  cmTC_c5de2.vcxproj -> C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_c5de2.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_c5de2.dir\Debug\cmTC_c5de2.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_c5de2.dir\Debug\cmTC_c5de2.tlog\cmTC_c5de2.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_c5de2.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.36
+
+
+Performing Test HAVE_WIN32_WINNT passed with the following output:
+Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_caea4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+2024/02/17 8:47:48 にビルドを開始しました。
+
+ノード 1 上のプロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_caea4.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_caea4.dir\Debug\" を作成しています。
+  構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+  ディレクトリ "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_caea4.dir\Debug\cmTC_caea4.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_caea4.dir\Debug\cmTC_caea4.tlog\unsuccessfulbuild" を作成しています。
+  "cmTC_caea4.dir\Debug\cmTC_caea4.tlog\unsuccessfulbuild" のタッチ タスクを実行しています。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_caea4.dir\Debug\\" /Fd"cmTC_caea4.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_caea4.dir\Debug\\" /Fd"cmTC_caea4.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  CurlTests.c
+  _WIN32_WINNT=0x0A00
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_caea4.exe" /INCREMENTAL /ILK:"cmTC_caea4.dir\Debug\cmTC_caea4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_caea4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_caea4.lib" /MACHINE:X64  /machine:x64 cmTC_caea4.dir\Debug\CurlTests.obj
+  cmTC_caea4.vcxproj -> C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_caea4.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_caea4.dir\Debug\cmTC_caea4.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_caea4.dir\Debug\cmTC_caea4.tlog\cmTC_caea4.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_caea4.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.37
+
+
+Performing Test HAVE_WIN32_WINNT passed with the following output:
+Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a4fa4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+2024/02/17 8:48:11 にビルドを開始しました。
+
+ノード 1 上のプロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_a4fa4.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_a4fa4.dir\Debug\" を作成しています。
+  構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+  ディレクトリ "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_a4fa4.dir\Debug\cmTC_a4fa4.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_a4fa4.dir\Debug\cmTC_a4fa4.tlog\unsuccessfulbuild" を作成しています。
+  "cmTC_a4fa4.dir\Debug\cmTC_a4fa4.tlog\unsuccessfulbuild" のタッチ タスクを実行しています。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4fa4.dir\Debug\\" /Fd"cmTC_a4fa4.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4fa4.dir\Debug\\" /Fd"cmTC_a4fa4.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  CurlTests.c
+  _WIN32_WINNT=0x0A00
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_a4fa4.exe" /INCREMENTAL /ILK:"cmTC_a4fa4.dir\Debug\cmTC_a4fa4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_a4fa4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_a4fa4.lib" /MACHINE:X64  /machine:x64 cmTC_a4fa4.dir\Debug\CurlTests.obj
+  cmTC_a4fa4.vcxproj -> C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_a4fa4.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_a4fa4.dir\Debug\cmTC_a4fa4.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_a4fa4.dir\Debug\cmTC_a4fa4.tlog\cmTC_a4fa4.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_a4fa4.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.36
+
+
+Performing Test HAVE_WIN32_WINNT passed with the following output:
+Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c2acc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+2024/02/17 10:08:43 にビルドを開始しました。
+
+ノード 1 上のプロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_c2acc.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_c2acc.dir\Debug\" を作成しています。
+  構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+  ディレクトリ "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_c2acc.dir\Debug\cmTC_c2acc.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_c2acc.dir\Debug\cmTC_c2acc.tlog\unsuccessfulbuild" を作成しています。
+  "cmTC_c2acc.dir\Debug\cmTC_c2acc.tlog\unsuccessfulbuild" のタッチ タスクを実行しています。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c2acc.dir\Debug\\" /Fd"cmTC_c2acc.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_WIN32_WINNT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c2acc.dir\Debug\\" /Fd"cmTC_c2acc.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\CMake\CurlTests.c
+  CurlTests.c
+  _WIN32_WINNT=0x0A00
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_c2acc.exe" /INCREMENTAL /ILK:"cmTC_c2acc.dir\Debug\cmTC_c2acc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_c2acc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/CMakeTmp/Debug/cmTC_c2acc.lib" /MACHINE:X64  /machine:x64 cmTC_c2acc.dir\Debug\CurlTests.obj
+  cmTC_c2acc.vcxproj -> C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\Debug\cmTC_c2acc.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_c2acc.dir\Debug\cmTC_c2acc.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_c2acc.dir\Debug\cmTC_c2acc.tlog\cmTC_c2acc.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\curl\custombuild\CMakeFiles\CMakeTmp\cmTC_c2acc.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.47
+
+

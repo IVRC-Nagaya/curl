@@ -1,0 +1,65 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckStructHasMember.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindCygwin.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindMsys.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPerl.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Internal/CheckSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/CurlSymbolHiding.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/CurlTests.c
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/FindLibPSL.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/FindLibSSH2.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/Macros.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/OtherTests.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/PickyWarnings.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/Platforms/WindowsCache.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/Utilities.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/cmake_uninstall.cmake.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMake/curl-config.cmake.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/curl-config.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/3.28.3/CMakeCCompiler.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/3.28.3/CMakeRCCompiler.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/CMakeFiles/3.28.3/CMakeSystem.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/libcurl.pc.in
