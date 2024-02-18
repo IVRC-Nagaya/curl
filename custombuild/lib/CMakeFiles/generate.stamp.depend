@@ -1,7 +1,0 @@
-# CMake generation dependency list for this directory.
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/lib/Makefile.inc.cmake
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/custombuild/lib/Makefile.soname.cmake
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/lib/CMakeLists.txt
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/lib/Makefile.inc
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/lib/Makefile.soname
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/curl/lib/curl_config.h.cmake
